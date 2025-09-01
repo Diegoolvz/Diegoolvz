@@ -1,4 +1,4 @@
-# *Hola, Mi nombre es Diego Olvera :)*
+# *Hola, Mi nombre es Diego Olvera ☕*
 
 Actualmente soy estudiante de quinto semestre en la carrera de ecología, estudiante en la Universidad Nacional Autónoma de México.
 
@@ -13,10 +13,12 @@ Tengo 22 años, me gusta la lectura y la meditación. Desde pequeño siempre me 
 ## ¿Qué es lo que espero conseguir en un futuro cercano?
 La posibilidad de graduarme de mi carrera y encontrar un trabajo que me permita el poder implementar el conocimeinto especializado en la ecología en temas políticos, creando leyes y regulacioes en pro del planeta y de todas las especies que no tienen la voz para defenderse.
 
-## Redes sociales.
+## Redes sociales_
 instagram: https://www.instagram.com/diego.olvz?igsh=NDcxZnZhYmxmc2g1
 
-facenook: https://www.facebook.com/share/1YgYrwtP8d/
+facebook: https://www.facebook.com/share/1YgYrwtP8d/
+
+# GRACIAS POR LEERME :))
 
 <!--
 **Diegoolvz/Diegoolvz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
